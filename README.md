@@ -14,6 +14,11 @@
 ## 📷 ScreenShots 
 
 
+
+https://github.com/tusharpraja/Sorting-Visualizer/assets/100289919/0cb87098-86d2-416d-bfae-3f1691bfcb59
+
+
+## 📷 ScreenShots 
 ![Screenshot (408)](https://github.com/tusharpraja/Sorting-Visualizer/assets/100289919/fd3d9687-33d7-43a0-830a-8abf24093007)
 
 ![Screenshot (409)](https://github.com/tusharpraja/Sorting-Visualizer/assets/100289919/e83e7615-1cc7-4d42-894d-f9eba8beaab8)
