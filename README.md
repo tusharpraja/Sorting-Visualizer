@@ -13,3 +13,8 @@
 
 ## 📷 ScreenShots 
 
+
+![Screenshot (408)](https://github.com/tusharpraja/Sorting-Visualizer/assets/100289919/fd3d9687-33d7-43a0-830a-8abf24093007)
+
+![Screenshot (409)](https://github.com/tusharpraja/Sorting-Visualizer/assets/100289919/e83e7615-1cc7-4d42-894d-f9eba8beaab8)
+![Screenshot (410)](https://github.com/tusharpraja/Sorting-Visualizer/assets/100289919/905e602c-dfab-4b94-91a9-b8470bd60635)
